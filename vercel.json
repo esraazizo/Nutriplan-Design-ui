@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/meal/(.*)", "destination": "/index.html" }
+  ]
+}
